@@ -7,5 +7,5 @@ Base URL: https://purriku.github.io/PublicWorldResources/
 - https://purriku.github.io/PublicWorldResources/EventPosters/
 
 ## Whitelists: 
-- https://purriku.github.io/PublicWorldResources/Whitelists/admin.txt
+- https://purriku.github.io/PublicWorldResources/Whitelists/admins.txt
 - https://purriku.github.io/PublicWorldResources/Whitelists/djs.txt
